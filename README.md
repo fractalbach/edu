@@ -1,9 +1,4 @@
-# Computer Science 
-
-
-# Textbooks
-
-## The Books
+# The Books 
 
 | The ___ Book | The Book Link |
 | ------------ | ------------- |
@@ -15,18 +10,13 @@ The Dinosaur Book: | [*Operating System Concepts*](http://os-book.com/)
 The AI Book: | [*Artificial Intelligence: A Modern Approach*](http://aima.cs.berkeley.edu/)
 
 
-## Software Engineering
 
-| Books |
-| - |
+
+| Software Engineering Books |
+| -------------------------- |
 [Design Patterns: Elements of Reusable Object-Oriented Software](https://en.wikipedia.org/wiki/Design_Patterns) |
 [The Pragmatic Programmer: From Journeyman to Master](https://en.wikipedia.org/wiki/The_Pragmatic_Programmer) |
 
-
-## Lists
-
-* [The ACM Classic Books Series](https://dl.acm.org/classics.cfm)
-* [List of important publications in computer science](https://en.wikipedia.org/wiki/List_of_important_publications_in_computer_science)
 
 
 
@@ -35,11 +25,14 @@ The AI Book: | [*Artificial Intelligence: A Modern Approach*](http://aima.cs.ber
 * [Build a Computer: From NAND to Tetris.](https://www.coursera.org/learn/build-a-computer/)
 
 
-# Fun Stuff 
+# More. Uncategorized.
 
-* [The Timeline of Computer Science](http://www.computerhistory.org/timeline/)
-
-
-# Find out More
-
+Neat Stuff
 - [ACM Curricula Recommendations](https://www.acm.org/education/curricula-recommendations)
+ 
+Lists of Stuff 
+- [The ACM Classic Books Series](https://dl.acm.org/classics.cfm)
+- [List of important publications in computer science](https://en.wikipedia.org/wiki/List_of_important_publications_in_computer_science)
+
+Fun Stuff 
+- [The Timeline of Computer Science](http://www.computerhistory.org/timeline/)
