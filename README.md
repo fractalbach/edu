@@ -8,9 +8,11 @@ The Dragon Book: | [*Compilers: Principles, Techniques, and Tools*](https://en.w
 The Sailboat Book: | [*Database System Concepts*](http://db-book.com/)
 The Dinosaur Book: | [*Operating System Concepts*](http://os-book.com/)
 The AI Book: | [*Artificial Intelligence: A Modern Approach*](http://aima.cs.berkeley.edu/)
+The Building Book: | *Computer Architecture: A Quantitative Approach*
 
 
 
+--- 
 
 | Software Engineering Books |
 | -------------------------- |
