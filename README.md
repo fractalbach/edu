@@ -8,9 +8,7 @@ The Building Book | *Computer Architecture: A Quantitative Approach*
 The Dragon Book: | [*Compilers: Principles, Techniques, and Tools*](https://en.wikipedia.org/wiki/Principles_of_Compiler_Design)
 The Dinosaur Book: | [*Operating System Concepts*](http://os-book.com/)
 The Sailboat Book: | [*Database System Concepts*](http://db-book.com/)
-
 The AI Book: | [*Artificial Intelligence: A Modern Approach*](http://aima.cs.berkeley.edu/)
-
  ~ | *Computer Networking: A Top-Down Approach*
 
 
