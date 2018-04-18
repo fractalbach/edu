@@ -35,7 +35,9 @@ More
 
 # Courses
 
-* [Build a Computer: From NAND to Tetris.](https://www.coursera.org/learn/build-a-computer/)
+- [Build a Computer: From NAND to Tetris.](https://www.coursera.org/learn/build-a-computer/)
+- [Introduction to Computer Networks](https://lagunita.stanford.edu/courses/Engineering/Networking-SP/SelfPaced/info)
+- [Compilers](https://lagunita.stanford.edu/courses/Engineering/Compilers/Fall2014/info)
 
 
 # More. Uncategorized.
