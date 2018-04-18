@@ -18,6 +18,7 @@ The Building Book: | *Computer Architecture: A Quantitative Approach*
 | -------------------------- |
 [Design Patterns: Elements of Reusable Object-Oriented Software](https://en.wikipedia.org/wiki/Design_Patterns) |
 [The Pragmatic Programmer: From Journeyman to Master](https://en.wikipedia.org/wiki/The_Pragmatic_Programmer) |
+[AntiPatterns](https://en.wikipedia.org/wiki/AntiPatterns) |
 
 
 
