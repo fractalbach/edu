@@ -4,12 +4,12 @@
 | ------------ | ------------- |
 The Turtle Book: | [*Foundations of Computer Science*](http://infolab.stanford.edu/~ullman/focs.html) |
 The Algorithm Book: | [*Introduction to Algorithms*](https://en.wikipedia.org/wiki/Introduction_to_Algorithms)
-The Building Book | *Computer Architecture: A Quantitative Approach*
+The Building Book | [*Computer Architecture: A Quantitative Approach*](https://www.google.com/search?q=Computer+Architecture%3A+A+Quantitative+Approach)
 The Dragon Book: | [*Compilers: Principles, Techniques, and Tools*](https://en.wikipedia.org/wiki/Principles_of_Compiler_Design)
 The Dinosaur Book: | [*Operating System Concepts*](http://os-book.com/)
 The Sailboat Book: | [*Database System Concepts*](http://db-book.com/)
 The AI Book: | [*Artificial Intelligence: A Modern Approach*](http://aima.cs.berkeley.edu/)
- ~ | *Computer Networking: A Top-Down Approach*
+The Freeway Book: | [*Computer Networking: A Top-Down Approach*](https://www.google.com/search?q=Computer+Networking%3A+A+Top-Down+Approach)
 
 
 --- 
@@ -23,14 +23,15 @@ The AI Book: | [*Artificial Intelligence: A Modern Approach*](http://aima.cs.ber
 
 ---
 
-More
+Even More Textbooks
 
+- Computer Networks: A Systems Approach
 - Introduction to the Theory of Computation
 - Computer Systems: A Programmer's Perspective
 - Concepts of Programming Languages
 - Fundamentals of Computer Graphics
-- Computer Graphics: Principles and Practice 
-- Computer Networks: A Systems Approach
+- Computer Graphics: Principles and Practice
+
 
 
 # Courses
