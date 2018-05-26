@@ -10,7 +10,7 @@ The Dinosaur Book: | [*Operating System Concepts*](http://os-book.com/)
 The Sailboat Book: | [*Database System Concepts*](http://db-book.com/)
 The AI Book: | [*Artificial Intelligence: A Modern Approach*](http://aima.cs.berkeley.edu/)
 The Freeway Book: | [*Computer Networking: A Top-Down Approach*](https://www.google.com/search?q=Computer+Networking%3A+A+Top-Down+Approach)
-
+The Orange Book: | [*Trusted Computer System Evaluation Criteria*](https://en.wikipedia.org/wiki/Trusted_Computer_System_Evaluation_Criteria)
 
 --- 
 
@@ -31,6 +31,7 @@ Even More Textbooks
 - Concepts of Programming Languages
 - Fundamentals of Computer Graphics
 - Computer Graphics: Principles and Practice
+- *Engineering a Compiler* by Cooper and Torczon
 
 
 
